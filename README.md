@@ -13,7 +13,7 @@ IBM DevOps Services has a Continuous Delivery Pipeline for deploying Cloud Found
 Helloworld node application
 
 ## The pipeline 
-As simple as it gets
+As simple as it gets a
 - Build 
     + Leverages the container build service to take the Dockerfile in the root of the project, builds a docker image that is versioned by tagging based on the build number, and pushes the image to your orgnanization's registry on IBM Bluemix. 
 - Deploy 
